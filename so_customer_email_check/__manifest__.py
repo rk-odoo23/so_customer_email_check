@@ -7,6 +7,7 @@
     'version': '17.0.0.1',
     'installable': True,
     'application': False,
+    'author': 'RK',
     'depends': [
         'base',
         'sale_management',
