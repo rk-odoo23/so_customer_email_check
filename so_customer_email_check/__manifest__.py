@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Restrict the SO Confirm",
+    'name': "Restrict SO Confirm",
     'summary': "Restrict the sales order confirmation if the customer doesn't have an email.",
     'category': 'Sales',
     'version': '17.0.0.1',
