@@ -15,4 +15,5 @@
     'price': '5.00',
     'currency': 'USD',
     'license': 'OPL-1',
+    'images': ['images/cover_image.gif'],
 }
